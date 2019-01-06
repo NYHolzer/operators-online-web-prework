@@ -1,4 +1,3 @@
-require 'pry'
 
 def unsafe?(speed)
   if speed == speed > 60
@@ -15,5 +14,4 @@ def not_safe?(speed)
 	
 end
 	
-
 
